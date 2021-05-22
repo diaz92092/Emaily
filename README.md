@@ -7,8 +7,6 @@ If you are looking to view / make changes to the existing codebase, you should n
 
 NOTE: When forking the repository, all database/API keys are removed from GitHub for security, so the application will not run correctly when running npm run dev.
 
-Usage
-To access the application, click this link. It is currently being hosted on Heroku's free plan, so it may take a few seconds to load up on first launch, so please be patient while it loads.
 
 Logging In
 When you first access the application, you will be prompted to login with your Google account. This is done securely and externally via Passport's Google OAuth 2.0. Logging in through other social media platforms such as Facebook, Twitter and GitHub are currently being developed, and will be released in the near future. Once you are logged in, you will be greeted with the dashboard page.
@@ -23,7 +21,9 @@ Once you're all set up with some credits on your account, you can begin to send 
 Getting Feedback
 When the survey recipient responds to your email, either positively or negatively, then the dashboard will visually update with these responses. Every few minutes the dashboard will update these values, and the end result can be something like this:
 
+
 Technologies
+
 Front-End
 Axios
 Create-React-App
