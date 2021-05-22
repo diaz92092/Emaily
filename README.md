@@ -1,6 +1,6 @@
 # Emaily
 
-Emaily is an application which is lets you send surveys (via email) to thousands of people at one time. It allows you to customise the content of the email, and tracks each response to the surveys in the dashboard. Emaily is a pay-as-you-go service, where one credit can send out one batch of surveys. You can purchase 5 credits for $5.00 inside the application. You can run the application for free by following the trial payment steps below.
+Emaily is an application which is lets you send surveys (via email) to thousands of people at one time. It allows you to customize the content of the email, and tracks each response to the surveys in the dashboard. Emaily is a pay-as-you-go service, where one credit can send out one batch of surveys. You can purchase 5 credits for $5.00 inside the application. You can run the application for free by following the trial payment steps below.
 
 Installation
 If you are looking to view / make changes to the existing codebase, you should navigate to a create a suitable directory, and run git clone https://github.com/diaz92092/emaily from the terminal to fork the repository. Once the repository is clone, you can navigate to your created directory and run npm install to install all dependencies. To run the application, you should navigate into the server directory, and run npm run dev, to start both the client, and the express server concurrently.
